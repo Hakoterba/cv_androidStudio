@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonCVApp</string>
+    <string name="myname">Hamza KOTERBA</string>
+    <string name="phone">06 70 25 93 40</string>
+    <string name="email">koterbah@gmail.com</string>
+    <string name="adresse">16 rue du docteur Pierre\n92000 Nanterre</string>
+    <string name="title_exp">Expériences</string>
+    <string name="title_form">Formations</string>
+    <string name="title_comp">Compétences</string>
+    <string name="title_langages">Langages</string>
+    <string name="title_projet">Projets</string>
+</resources>
